@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.240c526c.css",
+    "main.js": "./static/js/main.5bd9dbf4.js",
+    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/NotoSansKR-Black.otf": "./static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
+    "static/media/NotoSansKR-Bold.otf": "./static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
+    "static/media/NotoSansKR-Medium.otf": "./static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
+    "static/media/NotoSansKR-Regular.otf": "./static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NotoSansKR-Light.otf": "./static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
+    "static/media/NotoSansKR-Thin.otf": "./static/media/NotoSansKR-Thin.a3e74b5ef0ed5ab193f5.otf",
+    "static/media/recipe.png": "./static/media/recipe.decba53d00f448d184f1.png",
+    "static/media/profile.jpeg": "./static/media/profile.fd8fdbdb44afb6591ba4.jpeg",
+    "static/media/military.png": "./static/media/military.7cb0075707a6e757fc1f.png",
+    "index.html": "./index.html",
+    "main.240c526c.css.map": "./static/css/main.240c526c.css.map",
+    "main.5bd9dbf4.js.map": "./static/js/main.5bd9dbf4.js.map",
+    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240c526c.css",
+    "static/js/main.5bd9dbf4.js"
+  ]
+}
